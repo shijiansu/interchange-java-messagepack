@@ -1,0 +1,2 @@
+
+CBOR is a binary data format which is compatible with JSON but which is more compact than JSON, and thus faster to read and write. The Jackson ObjectMapper can read and write CBOR in the same way you read and write JSON. In order to read and write CBOR with Jackson, you need to add an extra Maven dependency to your project. Adding the Jackson CBOR Maven dependency is covered in the Jackson Installation Tutorial. Here is an example of writing an object to CBOR with the Jackson ObjectMapper
