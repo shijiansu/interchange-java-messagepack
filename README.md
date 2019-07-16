@@ -1,5 +1,6 @@
+# README
 
-- Reference: http://tutorials.jenkov.com/java-json/jackson-installation.html
+- <http://tutorials.jenkov.com/java-json/jackson-installation.html>
 
 ## Libraries
 
@@ -13,5 +14,3 @@
 - https://msgpack.org/#languages
 - https://github.com/msgpack/msgpack-java
 - Jackson extension - https://github.com/msgpack/msgpack-java/tree/develop/msgpack-jackson
-
-
