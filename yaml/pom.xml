@@ -38,14 +38,12 @@
       <artifactId>jackson-databind</artifactId>
       <version>${jackson.version}</version>
     </dependency>
-    <!-- Extensions [START] -->
-    <!-- YAML encoded data -->
+    <!-- extension - YAML encoded data -->
     <dependency>
       <groupId>com.fasterxml.jackson.dataformat</groupId>
       <artifactId>jackson-dataformat-yaml</artifactId>
       <version>${jackson.version}</version>
     </dependency>
-    <!-- Extensions [END] -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
