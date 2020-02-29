@@ -1,0 +1,2 @@
+
+YAML is a textual data format which is similar to JSON but uses a different syntax. The Jackson ObjectMapper can read and write YAML in the same way you read and write JSON. In order to read and write YAML with Jackson, you need to add an extra Maven dependency to your project. Adding the Jackson YAML Maven dependency is covered in the Jackson Installation Tutorial. Here is an example of writing an object to YAML with the Jackson ObjectMapper
