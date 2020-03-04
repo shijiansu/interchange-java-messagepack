@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/development%20year-2019-orange)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
 
-- <http://tutorials.jenkov.com/java-json/jackson-installation.html>
+- http://tutorials.jenkov.com/java-json/jackson-installation.html
 
 # Jackson releases
 
