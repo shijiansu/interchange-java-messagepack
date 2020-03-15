@@ -14,3 +14,9 @@
 - cbor - examples to use extension yml to covert object and cbor
 - yaml - examples to use extension yml to covert object and yaml
 - gson - examples to use gson apis to convert object and json
+
+--------------------------------------------------------------------------------
+
+# Execute all tests in project / sub-projects
+
+`/bin/bash run-project-test.sh`
