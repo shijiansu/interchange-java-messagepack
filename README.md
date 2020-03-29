@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-jackson-blue)
 ![](https://img.shields.io/badge/development%20year-2019-orange)
-![](https://img.shields.io/badge/contributor-shijiansu-purple)
+![](https://img.shields.io/badge/contributor-shijian%20su-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ![](https://img.shields.io/github/languages/top/shijiansu/interchange-java-jackson-by-jenkov)
