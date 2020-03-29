@@ -1,7 +1,14 @@
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-jackson-blue)
 ![](https://img.shields.io/badge/development%20year-2019-orange)
+![](https://img.shields.io/badge/contributor-shijiansu-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
+
+![](https://img.shields.io/github/languages/top/shijiansu/interchange-java-jackson-by-jenkov)
+![](https://img.shields.io/github/languages/count/shijiansu/interchange-java-jackson-by-jenkov)
+![](https://img.shields.io/github/languages/code-size/shijiansu/interchange-java-jackson-by-jenkov)
+![](https://img.shields.io/github/repo-size/shijiansu/interchange-java-jackson-by-jenkov)
+![](https://img.shields.io/github/last-commit/shijiansu/interchange-java-jackson-by-jenkov?color=red)
 
 - http://tutorials.jenkov.com/java-json/jackson-installation.html / 2019
 
