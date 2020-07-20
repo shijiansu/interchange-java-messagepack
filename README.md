@@ -15,12 +15,14 @@
 --------------------------------------------------------------------------------
 
 - jackson
-  - _1_ basic - examples to read, write, custom deserializing + serializing, data format, tree model
-  - _2_ jackson - examples to jackson node, parser, generator
-  - _3_ annotations - examples to jackson annotation of read + write, read only, write only
-- cbor - examples to use extension yml to covert object and cbor
-- yaml - examples to use extension yml to covert object and yaml
-- gson - examples to use gson apis to convert object and json
+  - jackson-json-by-jenkov
+    - _1_ basic - examples to read, write, custom deserializing + serializing, data format, tree model
+    - _2_ jackson - examples to jackson node, parser, generator
+    - _3_ annotations - examples to jackson annotation of read + write, read only, write only
+  - jackson-cbor-by-jenkov - examples to use extension yml to covert object and cbor
+  - jackson-yaml-by-jenkov - examples to use extension yml to covert object and yaml
+- gson
+  - gson-json-by-jenkov - examples to use gson apis to convert object and json
 
 --------------------------------------------------------------------------------
 
