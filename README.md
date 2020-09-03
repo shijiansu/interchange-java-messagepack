@@ -9,6 +9,9 @@
 ![](https://img.shields.io/github/languages/code-size/shijiansu/interchange-java-jackson-by-jenkov)
 ![](https://img.shields.io/github/repo-size/shijiansu/interchange-java-jackson-by-jenkov)
 ![](https://img.shields.io/github/last-commit/shijiansu/interchange-java-jackson-by-jenkov?color=red)
+![](https://github.com/shijiansu/interchange-java-jackson-by-jenkov/workflows/ci%20build/badge.svg)
+
+--------------------------------------------------------------------------------
 
 - http://tutorials.jenkov.com/java-json/jackson-installation.html / 2019
 
